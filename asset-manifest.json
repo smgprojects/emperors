@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bb9fb98.chunk.css",
-    "main.js": "/static/js/main.84671283.chunk.js",
+    "main.css": "https://smgprojects.github.io/emperors/static/css/main.2bb9fb98.chunk.css",
+    "main.js": "https://smgprojects.github.io/emperors/static/js/main.84671283.chunk.js",
     "main.js.map": "/static/js/main.84671283.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.74b6fc3d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.74b6fc3d.js.map",
-    "static/js/2.05dc5fac.chunk.js": "/static/js/2.05dc5fac.chunk.js",
-    "static/js/2.05dc5fac.chunk.js.map": "/static/js/2.05dc5fac.chunk.js.map",
-    "static/js/3.c8da2d53.chunk.js": "/static/js/3.c8da2d53.chunk.js",
-    "static/js/3.c8da2d53.chunk.js.map": "/static/js/3.c8da2d53.chunk.js.map",
-    "0a1048b390ab636dcae4.worker.js": "/0a1048b390ab636dcae4.worker.js",
-    "0a1048b390ab636dcae4.worker.js.LICENSE.txt": "/0a1048b390ab636dcae4.worker.js.LICENSE.txt",
-    "0a1048b390ab636dcae4.worker.js.map": "/0a1048b390ab636dcae4.worker.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2bb9fb98.chunk.css.map": "/static/css/main.2bb9fb98.chunk.css.map",
-    "static/js/2.05dc5fac.chunk.js.LICENSE.txt": "/static/js/2.05dc5fac.chunk.js.LICENSE.txt",
-    "static/media/check.06c31cf8.svg": "/static/media/check.06c31cf8.svg",
-    "static/media/close.b502d4ba.svg": "/static/media/close.b502d4ba.svg",
-    "static/media/gallery.45752e9c.svg": "/static/media/gallery.45752e9c.svg",
-    "static/media/gear.b1f1407e.svg": "/static/media/gear.b1f1407e.svg",
-    "static/media/no-check.fe894ae6.svg": "/static/media/no-check.fe894ae6.svg"
+    "runtime-main.js": "https://smgprojects.github.io/emperors/static/js/runtime-main.74b6fc3d.js",
+    "runtime-main.js.map": "https://smgprojects.github.io/emperors/static/js/runtime-main.74b6fc3d.js.map",
+    "static/js/2.05dc5fac.chunk.js": "https://smgprojects.github.io/emperors/static/js/2.05dc5fac.chunk.js",
+    "static/js/2.05dc5fac.chunk.js.map": "https://smgprojects.github.io/emperors/static/js/2.05dc5fac.chunk.js.map",
+    "static/js/3.c8da2d53.chunk.js": "https://smgprojects.github.io/emperors/static/js/3.c8da2d53.chunk.js",
+    "static/js/3.c8da2d53.chunk.js.map": "https://smgprojects.github.io/emperors/static/js/3.c8da2d53.chunk.js.map",
+    "0a1048b390ab636dcae4.worker.js": "https://smgprojects.github.io/emperors/0a1048b390ab636dcae4.worker.js",
+    "0a1048b390ab636dcae4.worker.js.LICENSE.txt": "https://smgprojects.github.io/emperors/0a1048b390ab636dcae4.worker.js.LICENSE.txt",
+    "0a1048b390ab636dcae4.worker.js.map": "https://smgprojects.github.io/emperors/0a1048b390ab636dcae4.worker.js.map",
+    "index.html": "https://smgprojects.github.io/emperors/index.html",
+    "static/css/main.2bb9fb98.chunk.css.map": "https://smgprojects.github.io/emperors/static/css/main.2bb9fb98.chunk.css.map",
+    "static/js/2.05dc5fac.chunk.js.LICENSE.txt": "https://smgprojects.github.io/emperors/static/js/2.05dc5fac.chunk.js.LICENSE.txt",
+    "static/media/check.06c31cf8.svg": "https://smgprojects.github.io/emperors/static/media/check.06c31cf8.svg",
+    "static/media/close.b502d4ba.svg": "https://smgprojects.github.io/emperors/static/media/close.b502d4ba.svg",
+    "static/media/gallery.45752e9c.svg": "https://smgprojects.github.io/emperors/static/media/gallery.45752e9c.svg",
+    "static/media/gear.b1f1407e.svg": "https://smgprojects.github.io/emperors/static/media/gear.b1f1407e.svg",
+    "static/media/no-check.fe894ae6.svg": "https://smgprojects.github.io/emperors/static/media/no-check.fe894ae6.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74b6fc3d.js",
-    "static/js/2.05dc5fac.chunk.js",
-    "static/css/main.2bb9fb98.chunk.css",
-    "static/js/main.84671283.chunk.js"
+    "https://smgprojects.github.io/emperors/static/js/runtime-main.74b6fc3d.js",
+    "https://smgprojects.github.io/emperors/static/js/2.05dc5fac.chunk.js",
+    "https://smgprojects.github.io/emperors/static/css/main.2bb9fb98.chunk.css",
+    "https://smgprojects.github.io/emperors/static/js/main.84671283.chunk.js"
   ]
 }
